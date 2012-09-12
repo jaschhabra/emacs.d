@@ -1,0 +1,3 @@
+MAC
+brew install emacs
+ln -s cp -r /usr/local/Cellar/emacs/Emacs.app /Applications/
