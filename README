@@ -1,3 +1,7 @@
 MAC
 brew install emacs
 ln -s OR  cp -r /usr/local/Cellar/emacs/Emacs.app /Applications/
+
+1. To get started just load emacs and ignore errors. Just let it run to install el-get.
+2. Reload Emacs
+
